@@ -52,6 +52,8 @@ IMAGE_INSTALL = "\
    libgpiod \
    libgpiod-tools \
    firmwared \
+   murata-binaries \
+   wpa-supplicant \
    hostapd \
 "
 
